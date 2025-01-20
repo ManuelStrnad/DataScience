@@ -12,3 +12,4 @@
 ## Unimplemented Ideas 
 - removing outliers was not done due to lack of expertise of medicine background
 - set different threshold
+- no feature engineering due to lack of new information
