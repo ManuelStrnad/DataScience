@@ -1,7 +1,7 @@
 ## Short Comings of the Paper
 - no hyperparameter selection
 
-## My Improvement
+## Improvement
 - KNN Imputer only on train data
 - Get feature importance from Random Forest and spearman correlation to detect the 5 most important features
 - Randomforest with Gridsearch with all features and 5 features
